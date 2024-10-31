@@ -1,0 +1,5 @@
+target
+.idea
+*.cfg
+*.log
+.DS_Store
